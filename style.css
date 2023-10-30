@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    background-color: #9BCF0B;
+    padding: 15px 80px 80px 15px;
+}
+.center{
+    display: flex;
+}
+nav{
+    background-color: #F6F5D7;
+    padding: 10px 150px 490px 10px;
+}
+article{
+    background-color: #ffff;
+    padding: 10px 1156px 490px 10px;
+}
+aside{
+    background-color: #F6F5D7;
+    padding: 10px 150px 490px 10px;
+}
+footer{
+    background-color: #9BCF0B;
+    padding: 15px 80px 85px 15px;
+}
